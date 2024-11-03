@@ -1,7 +1,3 @@
-Certainly, here’s the updated README file with links to the **High-Level/Low-Level Design Document** and **Source Code Architecture Overview**.
-
----
-
 # **Market Research & Use Case Generation Agent**
 
 ## **Project Overview**
